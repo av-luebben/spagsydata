@@ -2,7 +2,7 @@ __author__ = 'anna'
 """
 Written by Anna Vera Luebben in March 2015 for pdb2ins.py.
 This is an addition to pdb2ins.py, the pdb2ins program.
-It takes the space group of a data set an generates all symmetry operations from a
+It takes the space group of a data set and generates all symmetry operations from a
 dictionary of symmetry generators.
 The function getSymmCards takes the Space group in abbreviated shelx format and returns a string as SYMM line.
 """
